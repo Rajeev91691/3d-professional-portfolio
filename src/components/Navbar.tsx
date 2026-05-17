@@ -66,7 +66,7 @@ export default function Navbar() {
                 size="sm"
                 asChild
               >
-                <a href="#contact">Let's Talk</a>
+                <a href="#contact">Let&apos;s Talk</a>
               </Button>
             </div>
 
@@ -108,7 +108,7 @@ export default function Navbar() {
             >
               <Button variant="outline" size="lg" asChild>
                 <a href="#contact" onClick={() => setIsOpen(false)}>
-                  Let's Talk
+                  Let&apos;s Talk
                 </a>
               </Button>
             </motion.div>
