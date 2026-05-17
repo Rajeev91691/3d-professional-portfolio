@@ -55,7 +55,7 @@ export default function ContactSection() {
             <span className="gradient-text">Contact Me</span>
           </h2>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">
-            Let's connect and discuss opportunities or collaborations
+            Let&apos;s connect and discuss opportunities or collaborations
           </p>
         </motion.div>
 
@@ -157,7 +157,7 @@ export default function ContactSection() {
                     </div>
                     <h3 className="text-2xl font-bold mb-2">Message Sent!</h3>
                     <p className="text-gray-400">
-                      Thank you for reaching out. I'll get back to you soon.
+                      Thank you for reaching out. I&apos;ll get back to you soon.
                     </p>
                   </motion.div>
                 ) : (
@@ -256,7 +256,7 @@ export default function ContactSection() {
           className="text-center"
         >
           <p className="text-gray-500 mb-4">
-            Have a project in mind? Let's build something amazing together.
+            Have a project in mind? Let&apos;s build something amazing together.
           </p>
         </motion.div>
       </div>
