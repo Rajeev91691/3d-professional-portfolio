@@ -91,7 +91,7 @@ export default function HeroSection() {
             className="text-lg text-gray-400 mb-12 max-w-3xl mx-auto leading-relaxed"
           >
             Passionate about building intelligent systems that push the boundaries
-            of what's possible. Combining cutting-edge AI/ML with modern web
+            of what&apos;s possible. Combining cutting-edge AI/ML with modern web
             technologies to create impactful solutions.
           </motion.p>
 
